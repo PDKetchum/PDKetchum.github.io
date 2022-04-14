@@ -26,3 +26,10 @@ div {
   background-color:#F0FFFF;
   margin: 10px;
 }
+
+img {
+  width: 25%;
+  display: block;
+  margin: auto;
+  border-radius: 50%
+}
