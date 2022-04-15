@@ -2,7 +2,7 @@ body {
   background-image: url("https://w0.peakpx.com/wallpaper/323/23/HD-wallpaper-flores-azuis-blue-cute-pastel-thumbnail.jpg");
   color: #008B8B;
   Font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 20%
+  margin: 10% 20%;
 }
 
 
@@ -31,7 +31,7 @@ img {
   width: 25%;
   display: block;
   margin: auto;
-  border-radius: 50%
+  border-radius: 50%;
 }
 
 .header {
@@ -39,5 +39,5 @@ img {
 }
 
 .exp-bottom {
-  padding-bottom: 20px
+  padding-bottom: 20px;
 }
